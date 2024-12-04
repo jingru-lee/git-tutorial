@@ -1,12 +1,6 @@
-Git教程
+# Git教程 
 
+- feature-A 
 
-
-hello world!
-
-
-
-Git教程 - feature-A
-=======
-# Git教程
- - fix-B
+- fix-B 
+- faeture-C
